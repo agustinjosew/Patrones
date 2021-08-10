@@ -7,9 +7,9 @@ La idea es poder adaptar los patrones de GoF, si bien tienen su tiempo de existi
 
 ### Patrones Creacionales :icecream:
 
-* Abstract Factory
+* [Abstract Factory](https://github.com/agustinjosew/Patrones/tree/main/FactoryPatternABSTRACT)
 * Builder
-* Factory
+* [Factory](https://github.com/agustinjosew/Patrones/tree/main/FactoryPattern)
 * Prototype
 * Singleton
 
