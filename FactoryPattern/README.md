@@ -10,6 +10,7 @@ En este caso en puntual , con el Factory, lo que podemos definir son ciertos mé
 
 ## Los participantes de este patrón 
 
+![](1.png)
 
 
 El **Product** define la interface de los objetos que el método Factory crearía.
@@ -169,7 +170,7 @@ namespace FactoryPattern
 ```
 Y el resultado es algo así:
 
-
+![](2.png)
 
 ## Voy a usar alguna vez este patrón? :unamused:
 Absolutamente :smiley:. El patrón Factory Method es muy común en el mundo actual del diseño de software. Siempre que necesitemos crear grupos de objetos relacionados, el método Factory es una de las formas más limpias de hacerlo. 
